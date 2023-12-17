@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "text": "Reading Code Implementation",
+      "day": "for 30 miniutes",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Wash the dishes",
+      "day": "10:30",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Take some nap",
+      "day": "9:00",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "reading",
+      "day": "9:00",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Take some nap",
+      "day": "Dec 12 2023",
+      "reminder": false,
+      "id": 6
+    }
+  ]
+}
